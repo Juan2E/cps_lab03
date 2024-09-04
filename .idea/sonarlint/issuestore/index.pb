@@ -16,3 +16,5 @@ G.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,8/6/86
 Q.idea/sonarlint/securityhotspotstore/f/d/fd9a7fdf94e628dfe56d9ad1e3b8709c637d3b98,5/2/52879ac4418877e2715a01075dec91697a38e7bd
 Å
 Q.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,2/c/2cabb939da04d3de3a200bf2b575690e1a16316d
+t
+Dsrc/main/java/pe/edu/tecsup/lab03/controllers/StudentController.java,0/2/0294bd367627e1af73346092102529c59103896a
